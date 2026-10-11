@@ -1,0 +1,4 @@
+check:
+  Task: Проверить работу скрипта generate_emails.py. Инструкция в test_case.yaml.
+  Condition:
+    - Скрипт выводит 10 случайных email.
